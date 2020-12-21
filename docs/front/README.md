@@ -8,6 +8,10 @@
 
 #### JavaScript
 
+#### ES6
+#### TypeScript
+
+#### React
 #### 要点
 
 **闭包**
