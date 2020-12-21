@@ -9,6 +9,11 @@
 #### JavaScript
 
 #### ES6
+
+#### Babel
+
+#### Webpack
+
 #### TypeScript
 
 #### React
